@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_ic_clear.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/selector_location.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/selector_location.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/dot_focused.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/dot_focused.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/selector_search.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/selector_search.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/selector_tuijian.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/selector_tuijian.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/dot_normal.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/dot_normal.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/tuijian_blue.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/tuijian_blue.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/rect_corner_login.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/rect_corner_login.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/selector_zixun.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/selector_zixun.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/rect_gray.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/rect_gray.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/rect_corner_gray.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/rect_corner_gray.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/rec_corner_feedback.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/rec_corner_feedback.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/bg_circle.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/bg_circle.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/selector_message.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/selector_message.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/tuijan_dark.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/tuijan_dark.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/listview_divider_drafts.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/listview_divider_drafts.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/rect_corner_forum_attention_red.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/rect_corner_forum_attention_red.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/selector_forum.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/selector_forum.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable/rect_corner_forum_attention.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable/rect_corner_forum_attention.xml"
+    }
+]

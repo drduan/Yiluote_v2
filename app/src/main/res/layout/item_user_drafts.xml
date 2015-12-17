@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    
+    
+    android:background="#ffffff"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:layout_marginLeft="15dp"
+        android:id="@+id/draftsImage"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/draftsText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="15dp"
+        android:maxLines="4"
+        android:padding="2dp"
+        android:text="草稿"
+        android:textColor="#333"
+        android:textSize="20sp" />
+
+</LinearLayout>

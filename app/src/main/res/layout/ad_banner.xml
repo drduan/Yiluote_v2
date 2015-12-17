@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/adViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#282828" />
+
+    <TextView
+        android:id="@+id/adTitle"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/adViewPager"
+        android:layout_alignLeft="@+id/adViewPager"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"
+        android:background="#00ffffff"
+        android:gravity="left|bottom"
+        android:minLines="1"
+        android:maxLines="2"
+        android:textColor="#ffffff"
+        android:textSize="19sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/adViewPager"
+        android:layout_alignRight="@+id/adViewPager"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="7dp"
+        android:gravity="center" >
+
+        <View
+            android:id="@+id/v_dot0"
+            style="@style/dot_style"
+            android:background="@drawable/dot_focused"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/v_dot1"
+            style="@style/dot_style"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/v_dot2"
+            style="@style/dot_style"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/v_dot3"
+            style="@style/dot_style"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/v_dot4"
+            style="@style/dot_style"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+</RelativeLayout>

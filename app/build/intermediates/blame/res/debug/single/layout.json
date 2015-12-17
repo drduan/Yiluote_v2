@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_setting2.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_setting2.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_screen.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_screen.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_release2.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_release2.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/list_dir.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/list_dir.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_user_participation_father.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_user_participation_father.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/fragment_user_tiezi_list.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/fragment_user_tiezi_list.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_user_collection_child.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_user_collection_child.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_recommend.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_recommend.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_user_collection.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_user_collection.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/fragment_image_loader.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/fragment_image_loader.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_framework.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_framework.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_release1.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_release1.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_recommend2.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_recommend2.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_user_participation.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_user_participation.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_release3.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_release3.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_user_drafts.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_user_drafts.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/fragment_user_tiezi_grid.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/fragment_user_tiezi_grid.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/fragment_forum.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/fragment_forum.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_user.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_user.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_user_message.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_user_message.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/load_more.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/load_more.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_user_collection_father.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_user_collection_father.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/fragment_info.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_user_tiezi.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_user_tiezi.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_search.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/ad_banner.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/ad_banner.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_user_participation_child.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_user_participation_child.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_info.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_info.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_image_loader_grid.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_image_loader_grid.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/fragment_recommend.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/fragment_recommend.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/list_dir_item.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/list_dir_item.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_setting_relative.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_setting_relative.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_user_tiezi.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_user_tiezi.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/activity_user_feedback.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/activity_user_feedback.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/item_user_drafts.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/layout/item_user_drafts.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_overlay.xml"
+    }
+]

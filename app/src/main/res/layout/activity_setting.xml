@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <LinearLayout
+        android:id="@+id/topLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#464a66"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="20dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/setting_logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="设置"
+            android:textColor="#ffffff"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contentLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/topLinear"
+        android:orientation="horizontal"
+        android:padding="15dp" >
+
+        <LinearLayout
+            android:id="@+id/leftLinear"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/line"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:padding="20dp"
+                android:textSize="17sp"
+                android:text="账号管理"
+                android:textColor="#373d47" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="15dp"
+                android:layout_weight="1"
+                android:padding="20dp"
+                android:textSize="17sp"
+                android:text="消息提醒"
+                android:textColor="#373d47" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="15dp"
+                android:layout_weight="1"
+                android:padding="20dp"
+                android:textSize="17sp"
+                android:text="清理缓存"
+                android:textColor="#373d47" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/line"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#373d47" />
+
+        <LinearLayout
+            android:id="@+id/RightLinear"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/line"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/settingRelative"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:padding="20dp"
+                android:text="帐号关联"
+                android:textSize="17sp"
+                android:textColor="#373d47" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="15dp"
+                android:layout_weight="1"
+                android:padding="20dp"
+                android:text="阅读模式"
+                android:textSize="17sp"
+                android:textColor="#373d47" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="15dp"
+                android:layout_weight="1"
+                android:padding="20dp"
+                android:text="使用指南"
+                android:textSize="17sp"
+                android:textColor="#373d47" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/contentLinear"
+        android:layout_centerHorizontal="true"
+        android:drawableLeft="@drawable/good"
+        android:padding="5dp"
+        android:text="五星好评"
+        android:textSize="14sp"
+        android:textColor="#373d47" />
+
+    <ImageView
+        android:id="@+id/settingBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="15dp"
+        android:src="@drawable/back_1" />
+
+</RelativeLayout>

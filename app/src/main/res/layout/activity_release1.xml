@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <LinearLayout
+        android:id="@+id/topRelease1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/release_logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="20dp"
+            android:text="发布"
+            android:textColor="#2e9980"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/releaseTakePhoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/topRelease1"
+        android:background="#2e9980"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/release_camera" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="25dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="25dp"
+            android:text="点击拍摄"
+            android:textColor="#ffffff"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/releaseBack1"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:src="@drawable/release_back" />
+
+    <TextView
+        android:id="@+id/releaseNext1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/releaseTakePhoto"
+        android:layout_alignParentRight="true"
+        android:padding="5dp"
+        android:text="下一步"
+        android:textColor="#2e9980"
+        android:textSize="18sp" />
+
+    <RelativeLayout
+        android:id="@+id/imageLoaderContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/releaseTakePhoto"
+        android:background="#333333" >
+    </RelativeLayout>
+
+</RelativeLayout>

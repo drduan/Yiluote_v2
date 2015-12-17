@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF" >
+
+    <ImageView
+        android:id="@+id/forumUserHead"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/user_head" />
+
+    <TextView
+        android:id="@+id/forumUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/forumUserHead"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        android:text="Openrun Yiroote"
+        android:textColor="#252525"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/forumLableRight"
+        android:layout_width="90dp"
+        android:layout_height="19dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="35dp"
+        android:layout_toRightOf="@+id/forumUserHead"
+        android:background="@drawable/lable_5"
+        android:gravity="center"
+        android:paddingBottom="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="2dp"
+        android:singleLine="true"
+        android:text="标签"
+        android:textColor="#444"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/forumLableLeft"
+        android:layout_width="90dp"
+        android:layout_height="19dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="35dp"
+        android:layout_toLeftOf="@+id/forumUserHead"
+        android:background="@drawable/lable_r2"
+        android:gravity="center"
+        android:paddingBottom="2dp"
+        android:paddingRight="10dp"
+        android:paddingTop="2dp"
+        android:singleLine="true"
+        android:text="标签"
+        android:textColor="#444"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/forumAttention"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/forumUserName"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/rect_corner_forum_attention"
+        android:gravity="center"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp"
+        android:text="关注"
+        android:textColor="#FFF"
+        android:textSize="13dp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/forumViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_below="@+id/forumUserName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="12dp"
+        android:background="#282828" />
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/forumViewPager"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="5dp"
+        android:gravity="center" >
+
+        <View
+            android:id="@+id/v_dot0"
+            style="@style/dot_style"
+            android:background="@drawable/dot_focused"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/v_dot1"
+            style="@style/dot_style"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/v_dot2"
+            style="@style/dot_style"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/v_dot3"
+            style="@style/dot_style"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/v_dot4"
+            style="@style/dot_style"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/forumText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/forumViewPager"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:maxLines="4"
+        android:minLines="1"
+        android:padding="5dp"
+        android:text="从天南到海北，再从海北到天南，当所有繁华红尘都斑驳落尽的时候，我会回来。"
+        android:textColor="#252525"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:id="@+id/forumGood"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/forumText"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/forum_good" />
+
+    <TextView
+        android:id="@+id/forumGoodNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/forumGood"
+        android:layout_marginLeft="3dp"
+        android:layout_toRightOf="@+id/forumGood"
+        android:singleLine="true"
+        android:text="5"
+        android:textColor="#333" />
+
+    <LinearLayout
+        android:id="@+id/forumGoodUsers"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignBottom="@+id/forumGoodNum"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="15dp"
+        android:layout_toRightOf="@+id/forumGoodNum"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/user_head" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/user_head" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/user_head" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/user_head" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/user_head" />
+        
+        <ImageView
+            android:id="@+id/forumHead6"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/user_head"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/forumComments"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/forumGood"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/forum_comments" />
+
+    <TextView
+        android:id="@+id/forumCommentsNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/forumComments"
+        android:layout_marginLeft="3dp"
+        android:layout_toRightOf="@+id/forumComments"
+        android:singleLine="true"
+        android:text="0"
+        android:textColor="#333" />
+
+    <ImageView
+        android:id="@+id/forumLike"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignBottom="@+id/forumComments"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/forum_like_gray" />
+
+    <ImageView
+        android:id="@+id/forumShare"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignBottom="@+id/forumComments"
+        android:layout_marginRight="14dp"
+        android:layout_toLeftOf="@+id/forumLike"
+        android:src="@drawable/forum_share" />
+
+</RelativeLayout>

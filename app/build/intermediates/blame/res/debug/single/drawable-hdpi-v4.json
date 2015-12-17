@@ -1,0 +1,738 @@
+[
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recommend_gray_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/recommend_gray_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_bottom_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pictures_no.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/pictures_no.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_relevance_qq.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting_relevance_qq.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_demo_1.jpg",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/edit_demo_1.jpg"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_drafts_back.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_drafts_back.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_tiezi_show1.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_tiezi_show1.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_stub.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/icon_stub.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_message_notification.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_message_notification.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/zixun_dark.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/zixun_dark.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_search_api_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pictures_selected.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/pictures_selected.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_blue.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_blue.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_gray_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/home_gray_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_feedback_back.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_feedback_back.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/function_bg.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/function_bg.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/zixun_blue.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/zixun_blue.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_focused_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_message_good.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_message_good.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_relevance_wechat.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting_relevance_wechat.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/attention_red_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/attention_red_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_demo4.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_demo4.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_feedback_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_feedback_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_feedback_tea.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_feedback_tea.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_drafts_delete.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_drafts_delete.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_red_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/home_red_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_tiezi.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_tiezi.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_collection_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_collection_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_solid_dark_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_tiezi_show2.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_tiezi_show2.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_error.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/icon_error.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_caogao.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_caogao.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/picture_unselected.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/picture_unselected.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_right_default_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_solid_light_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/search_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_empty.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/icon_empty.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/location_gray_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/location_gray_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_other.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/login_other.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_comments.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/info_comments.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_blue.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_blue.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ad_demo_3.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/ad_demo_3.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recommend_red_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/recommend_red_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_gray_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/search_gray_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_circle_normal.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/info_circle_normal.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ad_demo_4.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/ad_demo_4.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_comments.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_comments.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_text.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/search_text.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_circle_now.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/info_circle_now.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_like_gray.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_like_gray.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_1.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/back_1.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_message.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_message.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_luoluobi.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_luoluobi.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_relevance_choice_true.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting_relevance_choice_true.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_holo_dark.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_dark.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_dark.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_demo3.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_demo3.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_gray_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_gray_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_unselected_pressed_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_tiezi_show2_gray.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_tiezi_show2_gray.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_blue_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/message_blue_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_1.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_1.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_party.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_party.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_4.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_4.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_good.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_good.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_go.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_r3.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_r3.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/fangxiangtou.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/fangxiangtou.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_5.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_5.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/fangxiangtoutwo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/fangxiangtoutwo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_r2.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_r2.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_bottom_solid_light_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_tiezi_show1_gray.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_tiezi_show1_gray.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ad_demo_1.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/ad_demo_1.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_titlebar.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/back_titlebar.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_back.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_back.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dir_choose.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/dir_choose.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_red_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_red_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_edit_lable.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_edit_lable.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_transparent_light_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_collection_back.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_collection_back.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_blue_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/search_blue_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_participation_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_participation_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_3.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_3.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_disabled.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_selected_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_red_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/info_red_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_128.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_128.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_drafts_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_drafts_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_feedback.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_feedback.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_cab_done_holo_dark.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_selected_pressed_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_demo1.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_demo1.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_message_fans.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_message_fans.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_normal.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_selected_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_head.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_head.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_bottom_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_holo_dark.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_r1.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_r1.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_40.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_40.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/location_red_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/location_red_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/login_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_r4.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_r4.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_default_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_message_private.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_message_private.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_selected_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_share.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_share.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_relevance_choice_false.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting_relevance_choice_false.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_hits.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/info_hits.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_tiezi_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_tiezi_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_voice_search.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_r5.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_r5.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_collection.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_collection.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_stacked_solid_light_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_selected_focused_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lable_2.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/lable_2.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_dir.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/pic_dir.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_demo2.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_demo2.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_message_recommend.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_message_recommend.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_holo_dark.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_tiezi_back.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_tiezi_back.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ad_demo_2.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/ad_demo_2.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_default_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_edit_filter.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_edit_filter.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_cab_done_holo_light.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_relevance_microblog.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting_relevance_microblog.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_search.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_collection_more.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_collection_more.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info_gray_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/info_gray_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_gray_48.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/message_gray_48.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_relevance_back.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/setting_relevance_back.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_my_message_logo.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/user_my_message_logo.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/forum_like_red.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/forum_like_red.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_camera.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_camera.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_transparent_dark_holo.9.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/release_edit_crop.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/release_edit_crop.png"
+    },
+    {
+        "merged": "/Users/duanxudong/Downloads/Yiluote_v2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/good.png",
+        "source": "/Users/duanxudong/Downloads/Yiluote_v2/app/src/main/res/drawable-hdpi/good.png"
+    }
+]

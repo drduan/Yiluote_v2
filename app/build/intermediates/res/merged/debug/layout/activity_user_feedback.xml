@@ -1,0 +1,96 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <LinearLayout
+        android:id="@+id/top_liaoyiliao"
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/img_logo"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/user_feedback_logo" />
+
+        <TextView
+            android:id="@+id/text_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="20dp"
+            android:text="和我们聊一聊"
+            android:textColor="#232323"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_back"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/user_feedback_back" />
+
+    <TextView
+        android:id="@+id/userFeedbackBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_toRightOf="@+id/img_back"
+        android:text="个人中心"
+        android:textColor="#844d9c"
+        android:textSize="16dp" />
+
+    <EditText
+        android:id="@+id/userFeedbackText"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:layout_below="@+id/top_liaoyiliao"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/rec_corner_feedback"
+        android:gravity="top"
+        android:hint="把你的有趣的好玩的想法，和充满思辨精神的建议讲给我们听吧(∩_∩)~"
+        android:inputType="textMultiLine"
+        android:padding="10dp"
+        android:singleLine="false"
+        android:textColor="#454545"
+        android:textColorHint="#c8c5c4"
+        android:textSize="15dp" />
+
+
+        <TextView
+            android:id="@+id/userFeedbackSlogan"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/userFeedbackText"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="70dp"
+            android:gravity="center"
+            android:text="Because of you, we are different."
+            android:textColor="#844d9c"
+            android:textSize="15dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_below="@+id/userFeedbackSlogan"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/user_feedback_tea" />
+
+</RelativeLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="2dp" >
+
+    <ImageView
+        android:id="@+id/infoImage"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_alignParentLeft="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_launcher" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/infoLable"
+            android:layout_width="120dp"
+            android:layout_height="20dp"
+            android:background="@drawable/lable_1"
+            android:gravity="center"
+            android:singleLine="true"
+            android:paddingLeft="10dp"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            android:layout_marginLeft="2dp"
+            android:text="标签"
+            android:textColor="#444"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/infoTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/infoLable"
+            android:singleLine="true"
+            android:paddingTop="3dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="资讯标题"
+            android:textColor="#111"
+            android:textSize="19sp" />
+
+        <TextView
+            android:id="@+id/infoContent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/infoTitle"
+            android:maxLines="3"
+            android:padding="1dp"
+            android:text="资讯内容"
+            android:textColor="#333"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/infoHits"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/infoComments"
+            android:drawableLeft="@drawable/info_hits"
+            android:drawablePadding="5dp"
+            android:text="0"
+            android:textColor="#555"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/infoComments"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:drawableLeft="@drawable/info_comments"
+            android:drawablePadding="5dp"
+            android:paddingLeft="15dp"
+            android:text="0"
+            android:textColor="#555"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</LinearLayout>
